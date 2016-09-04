@@ -80,7 +80,7 @@ Through raiding and trading and thus the contact with more advanced states, Norw
 
 ### The Håløyg and Ynglinge dynasties
 
-Håløyg family had their base in northern Norway and expanded southwards. Ynglinge family was in the south and expanded northwards. In the end, Ynglinge gained the upper hand. Harald Hårfagre became the first king and Norway became a kingdom. They controlled the area from Stavanger to Ålesund.
+Håløyg family had their base in northern Norway and expanded southwards. Ynglinge family was in the south and expanded northwards. In the end, Ynglinge gained the upper hand. Harald Hårfagre became the first king and Norway became a kingdom. They controlled the area from Stavanger to Ålesund. The earls of Lade controlled the area north of that.
 
 
 Establishment of the kingdom:
@@ -99,17 +99,91 @@ Most information about this time comes from *Snorre Sturlason*. The core of the 
 ## Lecture 2 - 31.08.2016
 
 
+After Harald died, the kingdom fell apart. 930 - 1030 is a time of political disintegration, but also a time of development of state-like structures. 
+
+State:
+
+* Laws
+* Monopoly of violence -> army
+* Taxation
+
+The kingdom of Norway in the 10th century:
+
+* Disintegration, danish dominance
+* Establishment of legal structures
+* Taxation
+* Ambulating king with local representatives
+* Attempts at christianization
+
+Early on, the laws were not written down. By the 11th century, laws are being written down. They regulated the obligations between the king and his subjects. 
+
+Taxation was in form of tributes, which could be in the form of food, metals or services (military obligations). 
+The *Leidang* (coastal defensive military system) system created many smaller districts (300 in Norway). Each Leidang had their own ship. The king could mobilise all of them within a few days, by use of fire signals along the coast. Later the Leidang system could also be used not only for defence but also as a general military attack force.  
+In the 11-hundreds, the taxation moved more to goods instead of military services to ensure peace. 
+
+The kings had a lot of wealth (gold, goods, lands) and a royal property was being created. They are spread out all over the country and thus the king needs a network of loyal servants (often from modest backgrounds since they are dependent on the king). The *Årmann* were those in charge. The king and his following was visiting/checking on them from time to time, being an unpredictable presence and thus assuring loyalty. 
+The personal following of the king is called *hird*. The king has no capital to reside in; he travels around the country the whole time. 
+The kings had a large number of sons and daughters. Any of the sons could claim kingships. Because a lot of people are fighting each other to claim the throne, the kingdoms were falling apart. 
+
+### Religion
+
+Håkon imported ideas of how to organise his "gang" and also christianity. 
+
+The kingdom of Norway in the 11th century:
+
+* Conversion to christianity from paganism
+* End of danish overlordship and dominance
+* Stable kingship 1035 - 1130
+* Ecclesiastical organisation (parishes and sees)
+
+The kings had economical and religious power. There were gods for every kind of people. It strengthened the people but was decentralised. Christianity was very centralised and this way of thought was more in line with a state. 
+The import of slaves meant that a small christian element was already present in the population. Christianity was also already known by the vikings.
+
+Kings would do their missionary work violently. A lot of energy was put into changing the reigning aristocracy into christians. The church is a part of the kings ruling apparatus. Kings were made to saints.
+
+In the 11th century a more permanent christian system was introduced. The local churches were built by the local aristocracy. They remained in power throughout the religious change. The church has royal protection and the king used the reading/writing skills of the church.
+
+### Social groups
+
+* Slaves (*Trell*)
+* Semi-free (*Løysing*)
+* Free men (*Bonde*)
+* Free men owning their land (*Hauld*)
+* Aristocracy (*Lendmann*)
+
+There was social mobility, but it would take generations for a group of people to get free. The slaves could be brought from England, Ireland, or were born into slavery. The slaves themselves could never get free, but their offspring could. Drinking, feasting and partying are a good way to get a loyal following. If a slave could hold one of these feasts for his masters, he could start the process of getting free if the master is satisfied by it. Their children would then be semi-free, i.e. their obligations to the masters would become less strict. (It would take ca 8 generations to get free). The group of semi-free people constituted a large part of society. 
+
+The free man could have their own farm and didn't have to respond to anyone. 
+
+Marriage is a way of social mobility.
+
+### Farms
+
+What is a farm? Agrarian terms:
+
+* *Gård*: A farm consisting of one or several households. Taxable unit.
+* *Bruk*: One such household and its buildings and resources
+
+A gård starts resembling a village requiring a high degree of cooperation and coordination. 
+
+Below and above the farms are fields. The farm itself lies about 200m over the fjords. The land below was very good land. Above the upper fields (lesser quality) was the woods. All households had good fields and not so good fields. All households should have had access to the sea to fish.  
+There was many quarrels about the land and its heritage. 
+
+### End of slavery
+
+Slavery disappeared in the 12th century. In the written laws of the 13th century, there was no regulations about slaves. The influx of slaves stopped, but was not the reason for the abolishment of slavery. The reason is the continuous increase in population. It became a lot more economic to just rent out the land, instead of having slaves. The prices to rent out land became higher and higher and generated more income. 
 
 
+### Skyldeiesystemet
 
+A system of land-rend:
 
+* A fixed rent (usually 1/6 of produce)
+* One agrarian unit can have several owners, with ideal parts in the rent
+* A farmer can be both tenant and owner
+* Fragmentation of property through inheritance, sale and gifts
+* Fragmentation contradicted by active policies of arrondation
 
+The rent gets split up among the offspring of the owners. The sons get twice as much as the daughters. The rent gets disintegrated amongst several generations and different owners. High degree of fragmentation of property. 
 
-
-
-
-
-
-
-
-
+Large portions of the farming populations are free people, even though they have economic dependency on land owners. 
