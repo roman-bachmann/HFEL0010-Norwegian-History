@@ -197,3 +197,98 @@ Large portions of the farming populations are free people, even though they have
 # Lecture 3 - 07.09.2016
 
 
+From 1030s to 1130s, Bishops were residing in Trondheim, Oslo and Bergen. People paid taxes (tithe = 1/10) to the church to get their services.  
+No strict inheritance laws (any son could become king) could lead to peaceful sharing of lands but also to fights. In the 10-11 hundreds, this calmed down. The church introduced monogamy, which limited the number of legitimate offsprings, but bastard sons and half brothers continued to claim the throne. By the 1130s this system of power sharing between brothers collapses into conflict and warfare. 
+
+Some problems: 
+
+* Anyone could come and claim to be a bastard son of some king, but it needed some form of backing from friends of the aristocracy. In the 12th century, aristocracy revolved around the king, since it gave them benefits.  
+* Need aristocratic support
+* Need to have control over an area
+
+Civil wars ca 1130 - 1240:
+
+* All brothers inherit the kingship on an equal footing
+* The development of aristocratic...
+
+	***
+	
+The church:
+
+* Separate church province (archiepiscopal see) 1152/53
+* Spans the north Atlantic
+* Supports strong, centralised monarchy
+* Conflicts with king Sverre late 12th century: Attempts to liberate the church from royal dominance
+
+The arch bishop in Norway had several sub bishops. There now were 10 bishops in Norway. This made the church into a very powerful organisation, which people counted on. 
+
+## Conflict between King and Church
+
+Magnus Erlingsson (1163) could not legitimately claim the throne. In order to get their son to be king and to get support for their illegitimate dynasty, Erling and his wife had to get support from the church. They gave a letter of privileges to the church. The rules of inheritance were designed by christian values (only legitimate sons; the oldest legitimate son; ...). 
+
+The church could depose of a king if he had a "mental illness". Mental illness could mean ruling against the will of god. Thus the church had some controlling power over the king.
+
+In the 1150/60s the cult of St. Olav gained a lot of momentum. 
+
+Magnus Erlingsson and his father fought with many contenders to the throne. Magnus defeated the kings in Trøndelag one by one (these kings were children - puppets for aristocratic factions who used the kings for their purposes). 
+
+Sverre Sigurdsson (1177) was a priest (thus educated) from the Faroe islands and had no ties with any aristocratic factions. He came to Norway and had the mission to take inheritance from his deceased father. He also had a military strategic competence. He beat Magnus Erlingsson and his father and was the sole king of Norway. He controlled Trøndelag and faced resistance from the Westnorwegians. The church was amongst his enemies, since they were allied with Magnus Erlingsson.  
+King Sverre was a good speaker and rallied agains the bishops. This created a conflict between him and the bishop in Trondheim.  
+In the long run, King Sverre won the struggle. 
+
+Håkon Håkonsson (1217) (grandson of Sverre) basically ended the big conflicts with the church. It was a period of consolidation and strengthening of local power and was seen as a peak of a centralised kingdom. The system changed from a travelling king to a king who settled in one of the major cities which then developed. Trondheim was one of these cities, but Bergen became the king's favourite.  
+A network of fortifications were built all over Norway as a manifestation of royal power. Also a system of permanent offices was introduced (like a government), based on the clergy. The king and not the bishop had control over the churches.
+
+Norway was divided into a set number of administrative regions. The *sysselmenn* (appointed from people from the aristocracy) were appointed to govern and uphold these regions and collect taxes. 
+
+Royal government ca. 1200-1350:
+
+* Regular taxation (*leidang*)
+* The country divided into districts (*sysler*)
+* Royal control of the legal system (*Landslov* 1274, royal appointment of *lagmenn*)
+* Central chancellery (Mariakirken)
+* Geographical expansion 12th and 13th centuries
+
+
+The king is now the lawmaker and merges all the law codes into one law for the whole country. The lagmenn become royal men of the law. He designs the laws in line with the existing ones but develops them further. 
+
+The arch bishops could have 120 armed forces, the bishops 40. There was a judge at every local cathedral. 
+
+The norse atlantic islands accepted the overlordship of the Norwegian king. The Norwegian kingdom was more and more integrated into the central european culture. 
+
+Summing up so far:
+
+* Before ca 900: Vikings: Raiders, traders, colonizers...
+
+	***
+	
+With the rise in population, more and more groups had to settle for bad lands with high rents and thus a large part of the population were becoming poor and hungry. There was too little resources for this large population. 
+	
+The Black Death
+
+* First deaths in 1346. In 1348 it reached Norway.
+* Probably transmitted by rats and fleas (thus long travels by ships possible)
+* The fleas had rats as their hosts and when the rat died, the flea also took humans as their hosts
+* Within a few years, the plague spread all over europe
+* 30% to 60% drop in population (from ca 450'000 to 150'000)
+* Contraction of cultivated land
+* Fall in the rent from land (75%)
+* Fall in the prices of land (50%)
+* Fall in the tithe (40-60%)
+	
+The Black Death changes the overpopulation problems over night. The animals and lands couldn't be cared about, since there was not enough people for that task. Thus also after the plague ended, there was large starvation. 
+
+In the 1360s, there was the Children's Plague. These outbreaks continued (but less and less impactful) about every 10 years until about 150 years later. The survivors claimed all the newly available land and there was enough land again. The price for land rents dropped dramatically (average 75% drop). People from worse farmlands (high altitude areas) moved to better farms (low lands) and people from the inland moved towards the ocean (could also fish). Some of these farms in the mountains were deserted for several decades / centuries. 
+
+Because the farmers had more land, they didn't grow only grains anymore, but produced also more luxurious goods, like cattle and cheese.
+ 
+In the 1530s, the church owned about 40% of the lands, the nobility/aristocracy about 20% and the king about 7% and the remaining was owned by farmers and people in the cities. 
+
+The church got more land after the plagues. There were a lot of gift giving to the church, since it was a time of uncertainty. 
+
+Priests were exposed a lot to people afflicted by the plague. In Trondheim, the arch bishop died. 1 of the 20 of the bishops survived. Perishes in the mountains were abandoned or merged. 
+
+Since the king didn't own that much land, the main drop in income came from the taxes. The taxes didn't sink that much and the high taxes were accepted, since they earned a lot more. 
+
+The high aristocracy handled the plague quite well and could keep their position, but the lower aristocracy took a big hit. They had to give up their lifestyle and many switched to being fairly wealthy farmers. 
+
