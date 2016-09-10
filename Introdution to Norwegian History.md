@@ -209,9 +209,10 @@ Some problems:
 Civil wars ca 1130 - 1240:
 
 * All brothers inherit the kingship on an equal footing
-* The development of aristocratic...
-
-	***
+* The development of aristocratic fractions
+* Primogenitur (oldest legitimate son only) as a guiding principle from the 1160s
+* Permanent division of the kingdom ca 1180-1217
+* Minor uprisings 1220s and 1240
 	
 The church:
 
@@ -258,9 +259,12 @@ The norse atlantic islands accepted the overlordship of the Norwegian king. The 
 
 Summing up so far:
 
-* Before ca 900: Vikings: Raiders, traders, colonizers...
+* Before ca 900: Vikings: Raiders, traders, colonisers. Chieftains and slaves.
+* 900 - 1050: The establishment of a Norwegian kingdom
+* 1050 - 1130: Shaky stability. Establishment of a church organisation.
+* 1130 - 1220: Civil wars. The church more important. From slavery to free men.
+* 1220 - 1350: Strong, centralised kingdom in cooperation with the church
 
-	***
 	
 With the rise in population, more and more groups had to settle for bad lands with high rents and thus a large part of the population were becoming poor and hungry. There was too little resources for this large population. 
 	
@@ -291,4 +295,3 @@ Priests were exposed a lot to people afflicted by the plague. In Trondheim, the 
 Since the king didn't own that much land, the main drop in income came from the taxes. The taxes didn't sink that much and the high taxes were accepted, since they earned a lot more. 
 
 The high aristocracy handled the plague quite well and could keep their position, but the lower aristocracy took a big hit. They had to give up their lifestyle and many switched to being fairly wealthy farmers. 
-
