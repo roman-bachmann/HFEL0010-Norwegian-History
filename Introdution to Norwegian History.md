@@ -194,7 +194,7 @@ The rent gets split up among the offspring of the owners. The sons get twice as 
 Large portions of the farming populations are free people, even though they have economic dependency on land owners. 
 
 
-# Lecture 3 - 07.09.2016
+## Lecture 3 - 07.09.2016
 
 
 From 1030s to 1130s, Bishops were residing in Trondheim, Oslo and Bergen. People paid taxes (tithe = 1/10) to the church to get their services.  
@@ -223,7 +223,7 @@ The church:
 
 The arch bishop in Norway had several sub bishops. There now were 10 bishops in Norway. This made the church into a very powerful organisation, which people counted on. 
 
-## Conflict between King and Church
+### Conflict between King and Church
 
 Magnus Erlingsson (1163) could not legitimately claim the throne. In order to get their son to be king and to get support for their illegitimate dynasty, Erling and his wife had to get support from the church. They gave a letter of privileges to the church. The rules of inheritance were designed by christian values (only legitimate sons; the oldest legitimate son; ...). 
 
@@ -268,7 +268,7 @@ Summing up so far:
 	
 With the rise in population, more and more groups had to settle for bad lands with high rents and thus a large part of the population were becoming poor and hungry. There was too little resources for this large population. 
 	
-The Black Death
+### The Black Death
 
 * First deaths in 1346. In 1348 it reached Norway.
 * Probably transmitted by rats and fleas (thus long travels by ships possible)
@@ -295,3 +295,128 @@ Priests were exposed a lot to people afflicted by the plague. In Trondheim, the 
 Since the king didn't own that much land, the main drop in income came from the taxes. The taxes didn't sink that much and the high taxes were accepted, since they earned a lot more. 
 
 The high aristocracy handled the plague quite well and could keep their position, but the lower aristocracy took a big hit. They had to give up their lifestyle and many switched to being fairly wealthy farmers. 
+
+
+## Lecture 4 - 14.09.2016
+
+### Commercial fishing
+
+More people switched to commercial fishing (Northern Norway and Bergen). In the north, there was a lot of fish and preserving fish was made easy by the temperature, the wind and the high season of fish (outside the farming season). From February to May, the fish just gets hanged outside to dry in the cold wind. By June, the fish was dried and ready to export. The fishers would meet the German traders in Bergen. The fishing market was monopolised by the king and fishers had credit ties with the merchants. 
+
+### Political development
+
+* Royal union between Norway and Sweden 1319 - 1355
+* Dynastic fight over the Swedish throne 1355 - 1396
+* Royal union between Norway and Denmark from 1380
+* The union of Kalmar 1397
+
+In 1319, Håkon V died without a son. The oldest son of Håkon V's daughters was Magnus (3 years old). Sweden is kingless as well, but they don't have a law of inheritance. Magnus becomes king of both countries, but his mother leads the council in his stead. When the king is not present, the council gets the power to rule for the moment. The two councils remove the kings mother from power, as they want to keep as much power as they earned in the 1320's.  
+Magnus had two sons, Erik and Håkon and the council dictated that Håkon (the younger one) has to be king and not Erik (so they had another child king and more power for themselves). (Magnus had the plan of making Erik the king of Sweden and Håkon the king of Norway).  
+Erik starts a rebellion against his father and dies.  
+The Swedish aristocracy was not pleased with Magnus and Håkon, so they depose of him and make Albrecht Mecklenburg the new king. Different aristocratic fractions in Sweden support the Norwegian and the German dynasties. 
+
+Håkon marries the danish princess Margrethe and they have a son, Olav IV. The swedish king dies and Olav is enacted king of Denmark. He is the heir of the Norwegian throne and has claims to the Swedish throne. Again, the king is a child and the council rules. He died at 17 years old and had no descendants. According to the law of succession, Albrecht would get all, but the council moves aside this rule. 
+
+* Albrecht shouldn't get the throne because he was in war with Norway
+* A bastard grandson doesn't want the throne
+* Margrethe gets to be the new starting point for the law of inheritance
+
+The polish boy Bugislav/Erik becomes the new king. Through the 1390's, Margrethe also gets control over Sweden. From 1397 on, there is a union (of Kalmar) between the three countries.
+
+* The council of the realm increases its political power
+* Conflicts between the king/queen and the council of the realm: Regimen politicum and regimen regale
+* Queen Margrethe and king Erik: strong monarchy
+
+The terms of the union between the three kingdoms are discussed in Kalmar in 1397. Margrethe and Erik wanted regimen regale (centralised government, common foreign policy). The councils wanted regimen politicum (decentralised government, loose confederation). In the first phase, Margrethe and Erik got what they wanted.
+
+[Aristocracy != nobility. The aristocracy were people who, to a certain degree, controlled economic means/people and had some influence. The councils were made up of the higher aristocracy.]
+
+* 1430s: Rebellions against king Erik
+* 1450s: The treaty of Bergen
+* 1537: The reformation and abolishment of the Norwegian Council of the realm
+* Weaker aristocracy 
+
+After Margrethe died in 1412, Erik pursued some political goals like reclaiming old Danish regions and even going to war for this. The Germans were afraid of one big centralised Scandinavia, so they supported any effort against that, but Erik keeps the warfare up. Therefore he needs to raise taxes for the war. Raising taxes, spending them elsewhere and pushing away local people were not seen kindly upon. Erik also wanted to control the church. The fishing and mining economy collapses, since the traders boycott them. All of this leads to major rebellions against Erik, which results in all three countries deposing of the king. The councils all elect another king, the nephew of Erik, Christoffer. Now, regimen politicum reigns.
+
+This falls apart and Christoffer dies and he has no heir. Norway moves to an elective monarchy. The Danish elect the duke of Schleswig-Holstein, Christian, which unites them with Denmark. The Swedish elect Karl. The Norwegian council elects Karl and Christian. Karl renounces his rights to a Norwegian throne (Norway not worth to fight over) and Christian becomes king. In 1450, they created the treaty of Bergen. 
+
+The *håndfesting* is a contract that the sons of the kings have to agree with, if they want to be elected by the council. In some situations, the contract was quite strict, which was a major source of conflicts between the kings and the council. Often, the kings would break the contracts, since the aristocracy, and therefore the council were economically bad off. 
+
+The church is increasingly dominating economics and also the council. The interests of the king and church were not always the same. By the 1520's, this turned into a political crisis. At the same time, there is a development to two centres of powers in Scandinavia (Sweden and Denmark/Norway). In the 1530's, the Lutheran church gains the upper hand. 
+
+Christian III abolished the catholic church in Denmark. In one year, he gains military control in Norway. He takes over the council. There is no more a Norwegian catholic church or an arch bishop. Norway becomes like a county of Denmark. It is still a kingdom, but ruled from Copenhagen. 1537 marks the end of the Kalmar union.
+
+
+## Lecture 5 - 21.09.2016
+
+### Population growth
+
+* Lowest level ca. 1500: Ca. 150'000
+* Level of 1349 reached ca 1650: 450'000
+* Continued growth ca. 1800: 800'000
+* Explosion ca. 1850: 1'500'000
+
+First growth was mainly recolonisation of old deserted farms that were only used for growing purposes. This lead to more income by taxes. The crown encouraged people to repurpose the farms with incentives like tax exemptions or land gifts. 
+
+After the reformation, the land the church owned (40% of the lands) would get taken by the king. The crown increases thus its income and the bishops get less payment. Monasteries are abolished. A majority of the people become tenants of the crown. 
+
+The rents for land rise again because of the population growth. The representatives of the king got a lot of concentrated power (legislators, tax collectors, property owners, ...).
+
+### Royal administration 1537 - 1660
+
+* Power delegated to governors (*lensherre*)
+* Subdelegation of power from governors to bailiffs (*fogd*)
+* Peasant resistance against corruption and *clientism*
+* Attempts of royal control over administration through the legal channel
+
+The *lensherre* controlled the so called *len* (kind of districts) and the more prestigious ones were called *slotslen*. The governors give a certain percentage of their income to the king. The governors had sub delegates called *fogd* administering smaller districts who didn't answer to the king but only to their governors. The king had no way of controlling this and a mafia like structure developed, since many saw it as a good opportunity to make money. There was the illegal way of opposing this system, rioting and resisting, but also the legal way over the king through letters to him giving him some leverage against corrupt governors. (Example of Luovig Munk - Governor in Trøndelag) The peasants wanted a fair law and the crown wanted their taxes. The government became more trustworthy. A commission was also crated to control the governors while traveling around Norway. In the 1660s, the king abolished the administration and gained total control. 
+
+### New social groups & economy
+
+* Crofters (*husmenn*)
+* Day labourers
+* Sailors
+* Craftsmen in the cities
+
+A more economic and socially diverse society developed. Crofters didn't own land. They had a farm that was so small that they couldn't be taxed. They instead payed rent to the farmers. Usually the landowners demanded mandatory labour (payed) from the crofters. The small farms were too small to support a family. This lead to the non-agrarian sector becoming more and more important (timber, fishing, mining). 
+
+The development of large cities and need for more ships for trading, a lot of timber was needed. The crofters thus got work in the winter getting timber or fishing. In the early 16-hundreds, mines were established. 
+
+This diversity of labour could support the population growth, where only agrarian work could not. Export means international trade which leads to the creation of cities and rapid urbanisation. 
+
+---
+
+Restructuring of the economy:
+
+* New exports: Timber and metals (16th to 18th centuries)
+* New towns and cities (17th to 18th centuries)
+* Migration in a lifetime perspective
+
+In south-western Norway, young people would usually spend some years abroad (eg. in Amsterdam) making money and then returning having the starting capital for a farm. There they could work as a sailor, in the tabac industry, as a prostitute, etc... 
+
+In south-eastern Norway, people should trade in the kingdom first before buying products from other countries, even if the products were inferior (eg. buy grain from Denmark when there was a bad harvest).
+
+The trading network also covered west (fishing) and east (grain from Russia). 
+
+Farming techniques didn't change much until the age of enlightenment (late 18th century), where a discussion on how to improve farming work starts. In the 17-hundreds, Norway started to farm potatoes, which lead to a more solid base of nourishing the people. 
+
+### The struggle for nordic domination 1563 - 1720
+
+* 1563-70: ...
+* 1611-13: ...
+
+---
+
+In the period from 1563 - 1720, every generation experienced a war. They were always between Sweden and Denmark/Norway about the dominance in Scandinavia. Usually, the wars started with a power balance and ended with a power imbalance. From the 1640s to the 1660s, Sweden established itself as the main military power in the north.
+
+In the times of wars, taxes were raised a lot to be able to afford soldiers and the royal system of taxation was made more efficient. Also, the population could be forced into becoming soldiers. The more efficient governments stayed also after the wars.
+
+Coup of 1660:
+
+* The council of the realm abolished
+* ...
+
+--- 
+
+In the Karl Gustav wars, the king was near to annihilate Denmark, when sieging Copenhagen, until he died. Money had to be loaned from the wealthy merchants of Copenhagen to defend the city and became bankrupt. Taxes were raised even more and groups that didn't have to pay taxes (aristocrats, nobility) now had to join in. [The priests prayed for the population. The aristocracy fought for the population (thus exempt from taxes). The rest fed the population.]  
+The king invited all social groups to discuss this in assembly in Copenhagen, but the aristocracy refused. Therefore he closes all ways of them to leave the city, the aristocracy gives in and they will pay taxes and give the king absolute power. The council is abolished and the political landscape changes to an absolute monarchy. In exchange for debt, the king gives land in Norway as he couldn't pay. Merchants in Copenhagen and Amsterdam sold scattered properties to merchants in Bergen, since it cost too much to control scattered land in Norway from afar. Many farmers also bought their own farms from the merchants, getting fairly wealthy from that. So over time, land ownership went from the church to the king to the merchants to the farmers.
