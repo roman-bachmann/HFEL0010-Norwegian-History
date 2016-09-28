@@ -280,11 +280,11 @@ With the rise in population, more and more groups had to settle for bad lands wi
 * Fall in the prices of land (50%)
 * Fall in the tithe (40-60%)
 	
-The Black Death changes the overpopulation problems over night. The animals and lands couldn't be cared about, since there was not enough people for that task. Thus also after the plague ended, there was large starvation. 
+The Black Death changes the overpopulation problems over night. The animals and lands couldn't be cared for, since there was not enough people for that task. Thus also after the plague ended, there was large starvation. 
 
 In the 1360s, there was the Children's Plague. These outbreaks continued (but less and less impactful) about every 10 years until about 150 years later. The survivors claimed all the newly available land and there was enough land again. The price for land rents dropped dramatically (average 75% drop). People from worse farmlands (high altitude areas) moved to better farms (low lands) and people from the inland moved towards the ocean (could also fish). Some of these farms in the mountains were deserted for several decades / centuries. 
 
-Because the farmers had more land, they didn't grow only grains anymore, but produced also more luxurious goods, like cattle and cheese.
+Because the farmers had more land, they didn't grow only grains anymore, but also produced more luxurious goods, like cattle and cheese.
  
 In the 1530s, the church owned about 40% of the lands, the nobility/aristocracy about 20% and the king about 7% and the remaining was owned by farmers and people in the cities. 
 
@@ -420,3 +420,92 @@ Coup of 1660:
 
 In the Karl Gustav wars, the king was near to annihilate Denmark, when sieging Copenhagen, until he died. Money had to be loaned from the wealthy merchants of Copenhagen to defend the city and became bankrupt. Taxes were raised even more and groups that didn't have to pay taxes (aristocrats, nobility) now had to join in. [The priests prayed for the population. The aristocracy fought for the population (thus exempt from taxes). The rest fed the population.]  
 The king invited all social groups to discuss this in assembly in Copenhagen, but the aristocracy refused. Therefore he closes all ways of them to leave the city, the aristocracy gives in and they will pay taxes and give the king absolute power. The council is abolished and the political landscape changes to an absolute monarchy. In exchange for debt, the king gives land in Norway as he couldn't pay. Merchants in Copenhagen and Amsterdam sold scattered properties to merchants in Bergen, since it cost too much to control scattered land in Norway from afar. Many farmers also bought their own farms from the merchants, getting fairly wealthy from that. So over time, land ownership went from the church to the king to the merchants to the farmers.
+
+
+## Lecture 6 - 28.09.2016
+
+Absolute rule: 
+
+* Local bureaucracy under royal control
+* Modernisation of the legal system
+* Economic monopolies - mercantilism
+
+Under absolute rule, the king could freely choose his council. The government would thus be very loyal to the king. Not only the nobility, but also people who could prove their worth to the king could be instantiated in those positions. The government was therefore very efficient and didn't necessarily need the king. The law system was modernised and the courts were streamlined. 
+
+In the mid 17 hundreds, the European monarchies were in a fight over resources. This leads to a protectionist economy. To protect inland producers, the king would give them monopolies or increase import taxes. 
+
+Growing dissent:
+
+* Economic dissent: ...
+
+***
+
+Denmark was a lot more self sufficient than Norway, that had to trade a lot. The bank was in Copenhagen, so Norwegian traders had to travel a long way to get a credit. This caused some economic dissent in Norway, since they did not get their own institutions.
+
+A patriotism develops in Norway, which culminates in the request for a separate Norwegian university, that is not in Copenhagen. There already is a university in Kiel for the people from Schleswig-Holstein. 
+
+Often, Absolutism was legitimised by the church. More and more people held private congregations and were jailed for such activities. 
+
+The rhetoric that the king stole form the people developed. Several large peasant uprisings follow. 
+
+***
+
+Independence 1814: 
+
+* Denmark-Norway on...
+
+***
+
+During the war, British ships patrolled the sea between Denmark and Norway, so communication between the two regions was impossible. 
+
+The king could not:
+
+* stray from the path of Lutherism
+* give away a part of his kingdoms
+
+The king was not fulfilling his obligations, so there was a claim on the throne from Kristian Fredrik. Denmark did not accept an absolute monarchy and only allowed independence with a constitution. When the constitution was written, Kristian became king. A war with Sweden starts in the summer. The Swedish crown prince accepts the Norwegian sovereignty and the constitution is slightly revised and accepted by the Swedish government. Norway had a separate national assembly and left to rule itself on internal matters. 
+
+The new state: 
+
+* University in 1811
+* National bank 1816
+* The constitution: Balance of power
+* 45% of all adult males have the right to vote
+* Increased local authority from the 1830s
+
+Freedom to choose one's own religion and free trade were now a constitutional right. A political balance was created.  
+Vote was connected to gender and property (one had to pay taxes or own land that was taxable to vote). The crofter thusly did not have the right to vote. By the 1830s, to a increasing degree, farmers would elect farmers. They wanted as much power as possible to be delegated to the lowest level through the "Law of self governance". This lead to a lot of people getting educated in local politics. 
+
+### Summing up: Political history
+
+* From chieftains to centralised kingdom (700-1200)
+* From petty chieftains to the king's aristocracy
+* Centralised kingdom based on understanding with the church, legal monopoly and the right to tributes
+* 1300-1500: The king's council formalises the power of the aristocracy
+* Union between the nordic kingdoms 1300s to 1520s
+* Conflicts between the king and the councils
+* 1537: Norwegian council abolished. Union with Denmark until 1814
+
+### Summing up: Economic history
+
+* Agrarian sector dominates the whole period. Few innovations.
+* Foreign trade: Luxury products (fur, amber, tusk, etc.) early and high medieval period
+* Export of dried fish from the 1100s
+* The role of the Hanseatic League
+* Export of timber from the 16th century
+* Export of metals from the 17th century
+* Monopolies of the absolute state (mercantilism)
+* The rise of local merchants
+
+### Summing up: Social history
+
+* Early medieval period: A society of systematically graded freedom
+* 1100s: developments towards a society of legally free persons in contractual relationships about the use of land
+* High medieval period: Overpopulation, crisis of resources, increased economic and social differences
+* Late medieval period: Sudden drop in population, lack of labour
+* Better economy and social standing for farmers
+* Crisis for the aristocracy
+* 1600s: Increased population. Increased social stratification.
+* Crofters: New, lower social group, engaged in labour outside the agrarian sector
+* Increased population in the cities and towns
+
