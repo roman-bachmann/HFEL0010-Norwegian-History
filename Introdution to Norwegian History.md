@@ -384,13 +384,13 @@ The development of large cities and need for more ships for trading, a lot of ti
 
 This diversity of labour could support the population growth, where only agrarian work could not. Export means international trade which leads to the creation of cities and rapid urbanisation. 
 
----
-
-Restructuring of the economy:
+### Restructuring of the economy
 
 * New exports: Timber and metals (16th to 18th centuries)
 * New towns and cities (17th to 18th centuries)
 * Migration in a lifetime perspective
+
+![Cities](./Resources/flerebyer.jpeg)
 
 In south-western Norway, young people would usually spend some years abroad (eg. in Amsterdam) making money and then returning having the starting capital for a farm. There they could work as a sailor, in the tabac industry, as a prostitute, etc... 
 
@@ -402,10 +402,15 @@ Farming techniques didn't change much until the age of enlightenment (late 18th 
 
 ### The struggle for nordic domination 1563 - 1720
 
-* 1563-70: ...
-* 1611-13: ...
+* 1563-70: The seven year war
+* 1611-13: The Kalmar war
+* 1643-45: The Torstensson war
+* 1657-58: The first Karl Gustav war
+* 1658-60: The second Karl Gustav war
+* 1675-79: The Scanian war
+* 1701-20: The great nordic war
 
----
+![Wars](./Resources/Norden2.jpeg)
 
 In the period from 1563 - 1720, every generation experienced a war. They were always between Sweden and Denmark/Norway about the dominance in Scandinavia. Usually, the wars started with a power balance and ended with a power imbalance. From the 1640s to the 1660s, Sweden established itself as the main military power in the north.
 
@@ -414,9 +419,9 @@ In the times of wars, taxes were raised a lot to be able to afford soldiers and 
 Coup of 1660:
 
 * The council of the realm abolished
-* ...
-
---- 
+* Absolute rule for the king
+* Sale of the royal domain (the crown's land)
+* Predictable bureaucracy
 
 In the Karl Gustav wars, the king was near to annihilate Denmark, when sieging Copenhagen, until he died. Money had to be loaned from the wealthy merchants of Copenhagen to defend the city and became bankrupt. Taxes were raised even more and groups that didn't have to pay taxes (aristocrats, nobility) now had to join in. [The priests prayed for the population. The aristocracy fought for the population (thus exempt from taxes). The rest fed the population.]  
 The king invited all social groups to discuss this in assembly in Copenhagen, but the aristocracy refused. Therefore he closes all ways of them to leave the city, the aristocracy gives in and they will pay taxes and give the king absolute power. The council is abolished and the political landscape changes to an absolute monarchy. In exchange for debt, the king gives land in Norway as he couldn't pay. Merchants in Copenhagen and Amsterdam sold scattered properties to merchants in Bergen, since it cost too much to control scattered land in Norway from afar. Many farmers also bought their own farms from the merchants, getting fairly wealthy from that. So over time, land ownership went from the church to the king to the merchants to the farmers.
@@ -424,7 +429,7 @@ The king invited all social groups to discuss this in assembly in Copenhagen, bu
 
 ## Lecture 6 - 28.09.2016
 
-Absolute rule: 
+### Absolute rule
 
 * Local bureaucracy under royal control
 * Modernisation of the legal system
@@ -434,11 +439,12 @@ Under absolute rule, the king could freely choose his council. The government wo
 
 In the mid 17 hundreds, the European monarchies were in a fight over resources. This leads to a protectionist economy. To protect inland producers, the king would give them monopolies or increase import taxes. 
 
-Growing dissent:
+### Growing dissent
 
-* Economic dissent: ...
-
-***
+* Economic dissent: Institutions for Norwegian foreign trade
+* Patriotism: Separate Norwegian university
+* Religious dissent: Preaching in private congregations
+* Peasants dissent: Against taxes and monopolies
 
 Denmark was a lot more self sufficient than Norway, that had to trade a lot. The bank was in Copenhagen, so Norwegian traders had to travel a long way to get a credit. This caused some economic dissent in Norway, since they did not get their own institutions.
 
@@ -448,13 +454,13 @@ Often, Absolutism was legitimised by the church. More and more people held priva
 
 The rhetoric that the king stole form the people developed. Several large peasant uprisings follow. 
 
-***
+### Independence 1814
 
-Independence 1814: 
-
-* Denmark-Norway on...
-
-***
+* Denmark-Norway on the losing side in the Napoleonic wars
+* Norway ceded to Sweden January 1814
+* Norwegian rebellion: declared an independent, constitutional monarchy May 1814
+* War with Sweden, defeat August 1814
+* Personal union with Sweden November 1814; constitution intact
 
 During the war, British ships patrolled the sea between Denmark and Norway, so communication between the two regions was impossible. 
 
@@ -465,7 +471,7 @@ The king could not:
 
 The king was not fulfilling his obligations, so there was a claim on the throne from Kristian Fredrik. Denmark did not accept an absolute monarchy and only allowed independence with a constitution. When the constitution was written, Kristian became king. A war with Sweden starts in the summer. The Swedish crown prince accepts the Norwegian sovereignty and the constitution is slightly revised and accepted by the Swedish government. Norway had a separate national assembly and left to rule itself on internal matters. 
 
-The new state: 
+### The new state
 
 * University in 1811
 * National bank 1816
