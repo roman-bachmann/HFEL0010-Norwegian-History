@@ -515,3 +515,31 @@ Vote was connected to gender and property (one had to pay taxes or own land that
 * Crofters: New, lower social group, engaged in labour outside the agrarian sector
 * Increased population in the cities and towns
 
+
+## Lecture 7 - 05.10.2016
+
+Important changes:
+
+* Industrial revolution starting mid 19-hundreds
+* Split with Sweden 1905
+* Doubling of population (2*880'000) from 1800 to 1860. 2.6 Millions around 1920
+* More than 500'000 move to the US
+* A lot fewer farmers
+* In 1850, 87% of the population lived on the countryside, in 1900 it was 72% and in 1946 only 50%. 
+* Change from an agrarian society to an industrialised one
+
+In 1854, the first rail road opens. Throughout the whole period, communication improves, giving access to travel (to work) and improves trading. Since Norway is a maritime country, the upcoming of steam boats improved communication in the country. The modern city, where people travel to to work is created. Farmers not only provided for themselves, but could also sell their products and get integrated into the economy. 
+
+Around 1850, the first banks open and capital becomes more available. Free trade gets introduced and it gets cheaper to import from eg Russia and Amerika. 
+
+1884 marked the beginning of parliamentarism (government accountable to the parliament) in Norway when the parties are created. The conservative and liberal  (late split into multiple) parties get created. In 1885, the labour party gets created, but only in 1903 gets access to the parliament. Only after the world war, the parliament gets far more accessible. In 1898, all men can vote and in 1913, also all women. 
+
+The liberal party is the driving force for the split with Sweden. Sweden traded east- and southwards, while Norway traded westwards (dependant on the royal navy). The foreign policy of the kingdom of Norway-Sweden was the main source of conflict (the foreign ministers were always Swedes). Norway had one of the largest merchant marines (4th largest in WW1); Sweden not so much. The liberal party argued, that the foreign minister doesn't respond to Norwegian interests abroad. The conflict about Norway wanting a foreign counsellor evolves in the 1890s and in 1905, the union is broken up. 
+
+Since there were several conflicts around the world at that time, it was important for Norway to show that they are not revolutionaries. The referendum about the split from Sweden was accepted with a big majority. There was also a referendum to decide if Norway should stay a kingdom or a republic. Haakon VII (a dane) gets king. He is married to the daughter (Maud) of the British king. Norway is therefore an independent country with relations to Denmark and Great Britain (important for the sea sovereignty). 
+
+From 1900 up to the start of WW1, Norway starts exploiting hydro energy a lot. 
+
+Norway stayed neutral during WW1, but was still influenced heavily by it. In the first half, the merchant marine gained a lot of money, but took big hits in the second. Eventually, Britain controlled the Norwegian fleet and Norway had to join the blockade of Germany. 
+
+The Norwegian perception of security: They were "outside" Europe, had close ties to Britain and didn't have threatening interests / were independent. 
