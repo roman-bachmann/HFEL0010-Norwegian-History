@@ -543,3 +543,158 @@ From 1900 up to the start of WW1, Norway starts exploiting hydro energy a lot.
 Norway stayed neutral during WW1, but was still influenced heavily by it. In the first half, the merchant marine gained a lot of money, but took big hits in the second. Eventually, Britain controlled the Norwegian fleet and Norway had to join the blockade of Germany. 
 
 The Norwegian perception of security: They were "outside" Europe, had close ties to Britain and didn't have threatening interests / were independent. 
+
+
+## Lecture 8 - 12.10.2016
+
+Economic cycles 1840-1920:
+
+* Before: Traditional industries with little development
+* 1840-1875: Growth - New industries and development of new industries
+* 1875-1890: Stagnation - Norwegian economics are and were closely tied with international economics
+* 1890-1900: Growth
+* 1900-1905: Stagnation - Crisis
+* 1905-1917: Growth - At beginning of war, there was a high demand in eg fish and shipping businesses
+
+Times of crisis forced people to innovate. 
+
+Pre-industrial Norway:
+
+* An agricultural, rural area
+* Small towns (Being or not being a town was a matter of legislation)
+* Proto-industries
+	* Sawmills (powered using water)
+	* Mines (copper, silver, iron-ore)
+	* Iron-works
+* Export industries
+	* Forestry (timber)
+	* Fisheries
+	* Shipping  
+
+During the late 19th century and mainly after 1920, the percentages of people working in primary, secondary and tertiary  (commerce, trade, offices) industries shifted drastically. 
+
+--- graph ---
+
+###Agriculture: Growth and changes
+
+Most of the people were farmers (mostly relatively small landowners), workers at farms, crofters (*husmenn*), fishermen or sailors.  
+The "husmann"-system fell into decline from the 1860s. Many crofters moved away from the rural areas and got jobs in new industrial sectors. So the percentage of people in rural areas was falling, while the overall number of people was rising (also on the land).
+
+Agriculture and the market economy: 
+
+* Growth in productivity
+* Better cultivation, new crops (potatoes) leads to more efficient food growth
+* New working methods
+* Better organisation of properties (Defragmentation of lands)
+* Mechanisation
+* Better communications
+* Producer cooperatives (farmers took control over the distribution of their products. No middle man -> more profit)
+
+###Fishing
+
+* Growth in exports from the 1830s (High demand in Europe for cheap food. Norwegian fish was cheap)
+	* Herring and *Klippfisk*
+* Mechanisation and deep-sea fishing form 1890s. Before, fishing was done in small, open boats along the coast using traditional methods. Bigger steam boats meant, that one could wander off further out into the open sea. 
+
+###Forestry
+
+* Growth in demand and rising prices on timber from the 1840s
+* Exports from timber because of higher demand in Europe (since there also was a rise in population)
+* Rising wood products industry from the 1870s
+* Paper production. Rising demand for news papers.
+* British investments and knowledge import
+
+###Shipping - Norway as a great power
+
+* Steady growth from the 1820s
+* 1878: The Norwegian merchant fleet was the third largest in the world
+* Trading for other countries in Europe, but later also for the Americas
+* Norwegian and Swedish exports
+* The Navigation Act repealed 1849 (Only British ships could transport goods to and from Great Britain)
+* Wooden sail ships
+* Low cost, low wages -> Norwegian ships could compete with other countries. 
+
+From sail to steam:
+
+* Slow changeover from sail to steam (For a long time more economical to not buy expensive, but more efficient steam ships)
+* Investments in steam boats from 1890
+* Shipping was of vital importance for Norwegian economy
+
+###Better communications
+
+* Railways (Oslo-Trondheim travel time shrunk from one week to one day)
+* Steamboats
+* Better postal services
+* Telegraph, telephone
+
+###Norwegian industrialisation
+
+* Early industrialisation ca 1840-50 (mainly textile industries in the central areas of eastern Norway around Oslo along rivers to use hydro power)
+* Steady growth 1860-75
+* Industrial breakthrough 1890-1914
+
+A first wave of industrialisation (1840s-1870s):
+
+* New industries
+	* Textiles
+	* Mechanical engineering
+* Important preconditions / explanations:
+	* Population increase
+	* Urbanisation
+	* Liberal economic policy
+	* Technology import
+
+The second phase of industrialisation (1870s-1900):
+
+* Based on traditional natural resources
+* Timber:
+	* Saw mills (now mechanised, steam sourced)
+	* Mechanical pulp
+	* Cellulose / chemical pulp
+	* Paper
+* Fishing
+	* Canning industry (high demand in Europe at the beginning of WW1)
+	* Mechanisation
+
+An industrial nation (1900-1914): Electricity:
+
+* New growth industries:
+	* Electro chemicals (Fertiliser, Norsk hydro 1905)
+	* Electro metals (aluminium, zink, nickel, carbid, ...)
+	* Electro technical (turbines, dynamos)
+* Preconditions / explanations:
+	* Hydro electric power very useful and easy to implement for high energy demanding tasks
+	* Technological advances
+	* Foreign capital / investments
+
+The Norwegian road to industrialisation:
+
+* Comparative advantages: Natural resources
+* Technology import, "catching-up"
+* Import of foreign capital
+* Export-led growth
+* A "Norwegian System"? 
+* "A small and lucky imitator" (imitated especially the British industry)
+* "Democratic capitalism" (Norway more egalitarian than elite driven Sweden)
+
+Democratic capitalism:
+
+* United principles of democracy, justice and equality
+* Industries were locally based and relatively autonomous
+* Political control
+* Local industries led by a strong *petit-bourgeoisie* with its democratic norms
+* Dual economy:
+	* Small industry: Local capitalism, domestic market
+	* Big industry: Foreign capital, export
+
+The role of the state:
+
+* Quite liberal
+* Organiser of growth and development
+* Low taxation
+* System for the provisions of credit
+* Development of communications
+* Regulator and legislator
+* Concession laws 1906
+	* Water rights in private hands would eventually become subject to public ownership
+
