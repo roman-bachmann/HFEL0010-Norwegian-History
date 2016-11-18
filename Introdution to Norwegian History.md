@@ -5,10 +5,12 @@ HFEL0010, Autumn 2016
 
 ### Early Days
 
+<img src="./Resources/reindeer.jpg" width="300" align="right" hspace="20"/>
+
 Why did people migrate to the north, 10'000 years ago?  
 -> They moved because of *resources* like fish, reindeer, etc... 
 
-![Reindeer](./Resources/reindeer.jpg)
+
 
 Slowly, coming from the south, *agriculture took the upper hand* in the country over gathering. Gathering remained important for quite a long time.
 
@@ -37,21 +39,21 @@ Ottar shows an *integrated trade economy all along Norway, Denmark and England*,
 
 ### Viking expansion
 
+<img src="./Resources/raidsEurope.jpg" width="300" align="right" hspace="20"/>
+
 The Viking Age begins with a raid on monastery in northern England. Raiders singled out rich institutions as their targets. Raids later expanded to more regions, like the east and to large rivers in Europe.
 
-![Raids in Europe](./Resources/raidsEurope.jpg)
+Trade & the viking expansion of settlements are two important aspects that happened at the same time. Settlements in north Atlantic islands -> Iceland, Shetland, Faroese, Greenland, because of a *population surplus, better ships and the concentration of power*. The new settlements depended on trade with Norway. Iceland grew to ca. 20000 inhabitants.
 
-Trade & the viking expansion of settlements are two important aspects that happened at the same time. Settlements in north atlantic islands -> Iceland, Shetland, Faroese, Greenland, because of a *population surplus, better ships and the concentration of power*. The new settlements depended on trade with Norway. Iceland grew to ca. 20000 inhabitants.
+<img src="./Resources/expansionWest.jpg" width="500" />
 
-![Expansion to the west](./Resources/expansionWest.jpg)
-
-Local trade was very important: furs, amber, tusks and also luxury products. Scandinavians became *more integrated* into the european trade network.
+Local trade was very important: furs, amber, tusks and also luxury products. Scandinavians became *more integrated* into the European trade network.
 
 Viking expansion:
 
 * Why: Population surplus, better ships, concentration of power
 * How: Trade, Settlements, Plunder
-* Consequences: Further Concentration of wealth and power, Spread of norse culture and trading networks in the north atlantic, Import of religious and political ideas
+* Consequences: Further Concentration of wealth and power, Spread of norse culture and trading networks in the north Atlantic, Import of religious and political ideas
 
 ### Chieftains
 
@@ -164,13 +166,13 @@ What is a farm? Agrarian terms:
 * *Gård*: A farm consisting of one or several households. Taxable unit.
 * *Bruk*: One such household and its buildings and resources
 
-A gård starts resembling a village requiring a high degree of cooperation and coordination. 
+A gård starts resembling a village requiring a high degree of cooperation and coordination.
 
-![Havrå](./Resources/Havrå.jpg)
+<img src="./Resources/Havrå.jpg" width="400" />
 
 Below and above the farms are fields. The farm itself lies about 200m over the fjords. The land below was very good land. Above the upper fields (lesser quality) was the woods. All households had good fields and not so good fields. All households should have had access to the sea to fish.
 
-![Havrå2](./Resources/Havrå2.jpg)
+<img src="./Resources/Havrå2.jpg" width="400" />
 
 There was many quarrels about the land and its heritage. 
 
@@ -390,7 +392,7 @@ This diversity of labour could support the population growth, where only agraria
 * New towns and cities (17th to 18th centuries)
 * Migration in a lifetime perspective
 
-![Cities](./Resources/flerebyer.jpeg)
+<img src="./Resources/flerebyer.jpeg" width="500" />
 
 In south-western Norway, young people would usually spend some years abroad (eg. in Amsterdam) making money and then returning having the starting capital for a farm. There they could work as a sailor, in the tabac industry, as a prostitute, etc... 
 
@@ -402,6 +404,8 @@ Farming techniques didn't change much until the age of enlightenment (late 18th 
 
 ### The struggle for nordic domination 1563 - 1720
 
+<img src="./Resources/Norden2.jpeg" width="300" align="right" hspace="20"/>
+
 * 1563-70: The seven year war
 * 1611-13: The Kalmar war
 * 1643-45: The Torstensson war
@@ -410,7 +414,7 @@ Farming techniques didn't change much until the age of enlightenment (late 18th 
 * 1675-79: The Scanian war
 * 1701-20: The great nordic war
 
-![Wars](./Resources/Norden2.jpeg)
+
 
 In the period from 1563 - 1720, every generation experienced a war. They were always between Sweden and Denmark/Norway about the dominance in Scandinavia. Usually, the wars started with a power balance and ended with a power imbalance. From the 1640s to the 1660s, Sweden established itself as the main military power in the north.
 
@@ -528,6 +532,8 @@ Important changes:
 * In 1850, 87% of the population lived on the countryside, in 1900 it was 72% and in 1946 only 50%. 
 * Change from an agrarian society to an industrialised one
 
+<img src="./Resources/population.png" width="350" />
+
 In 1854, the first rail road opens. Throughout the whole period, communication improves, giving access to travel (to work) and improves trading. Since Norway is a maritime country, the upcoming of steam boats improved communication in the country. The modern city, where people travel to to work is created. Farmers not only provided for themselves, but could also sell their products and get integrated into the economy. 
 
 Around 1850, the first banks open and capital becomes more available. Free trade gets introduced and it gets cheaper to import from eg Russia and Amerika. 
@@ -573,9 +579,11 @@ Pre-industrial Norway:
 
 During the late 19th century and mainly after 1920, the percentages of people working in primary, secondary and tertiary  (commerce, trade, offices) industries shifted drastically. 
 
---- graph ---
+<img src="./Resources/employment_pst.png" width="300" />
 
 ###Agriculture: Growth and changes
+
+<img src="./Resources/bonde1.jpg" width="270" align="right" hspace="20"/>
 
 Most of the people were farmers (mostly relatively small landowners), workers at farms, crofters (*husmenn*), fishermen or sailors.  
 The "husmann"-system fell into decline from the 1860s. Many crofters moved away from the rural areas and got jobs in new industrial sectors. So the percentage of people in rural areas was falling, while the overall number of people was rising (also on the land).
@@ -590,11 +598,15 @@ Agriculture and the market economy:
 * Better communications
 * Producer cooperatives (farmers took control over the distribution of their products. No middle man -> more profit)
 
+<img src="./Resources/horse.jpg" width="400"/>
+
 ###Fishing
 
 * Growth in exports from the 1830s (High demand in Europe for cheap food. Norwegian fish was cheap)
 	* Herring and *Klippfisk*
 * Mechanisation and deep-sea fishing form 1890s. Before, fishing was done in small, open boats along the coast using traditional methods. Bigger steam boats meant, that one could wander off further out into the open sea. 
+
+<img src="./Resources/fishing.jpeg" width="500"/>
 
 ###Forestry
 
@@ -603,6 +615,8 @@ Agriculture and the market economy:
 * Rising wood products industry from the 1870s
 * Paper production. Rising demand for news papers.
 * British investments and knowledge import
+
+<img src="./Resources/paper.jpg" width="400"/>
 
 ###Shipping - Norway as a great power
 
@@ -627,6 +641,8 @@ From sail to steam:
 * Better postal services
 * Telegraph, telephone
 
+<img src="./Resources/train.jpg" width="300"/>
+
 ###Norwegian industrialisation
 
 * Early industrialisation ca 1840-50 (mainly textile industries in the central areas of eastern Norway around Oslo along rivers to use hydro power)
@@ -643,6 +659,8 @@ A first wave of industrialisation (1840s-1870s):
 	* Urbanisation
 	* Liberal economic policy
 	* Technology import
+
+<img src="./Resources/wave.jpg" width="300"/>
 
 The second phase of industrialisation (1870s-1900):
 
@@ -698,3 +716,519 @@ The role of the state:
 * Concession laws 1906
 	* Water rights in private hands would eventually become subject to public ownership
 
+
+## Lecture 9 - 19.10.2016
+
+
+### The interwar period
+
+* Turbulent times, period of restructuring and conflicts
+* Time of upheaval in Norway and in the world (politically, economically, socially)
+* Socialism - capitalism ?
+* State planning - free market ?
+* Revolution - reforms ? (Russian revolution in 1917)
+* Democracy - dictatorship ? (several fascist movements in Europe)
+
+
+Norwegian politics:
+
+* From instability and conflict to collaboration and unity
+* Many labour conflicts in the 1920s and 30s because of bad pay and working conditions
+* 1918 - 1935:
+	* Short-lived, unstable minority governments (for the most part) formed by right side and center parties
+	* There was a small communist party (15%)
+	* Never a big fascist movement in Norway
+	* Political polarisation
+* The Labour Party from a revolutionary to a reformist and national party
+	* Largest party from 1927
+	* Short-lived government 1928 (in power for 2 weeks, since more conservative parties became afraid of a socialist government)
+* The 1935 agreement between the Labour Party and the Agrarian Party
+	* Stability and reduction in tensions between political parties
+	* Fewer labour conflicts
+
+Norwegian economy 1905 - 1939:
+
+* 1905 - 1917: Growth
+* 1917 - 1935/39: A period of turbulence
+	* 1918 - 1920: Growth and inflation (High demand for commodities)
+	* 1921 - 1925/28: Recession
+		* High debts, banking crisis
+		* Shipping, from crisis to growth crisis
+	* 1925/28 - 1930: Growth (slow from 25-28)
+	* 1930 - ca 1932: Crisis
+		* The Stock Market Crash 1929 and "The Great Depression"
+		* International crisis (Norways wellbeing was closely tied with the rest of the world)
+	* From 1935: Growth
+
+"Growth through crisis":
+
+* Norwegian economy 1875 - 1890 and ca. 1925 - 1935:
+	* Crisis *and* Expansion
+* Crisis -> Innovation -> Growth
+* Entrepreneurship
+	* Transfer of resources from industries with declining productivity to new industries 
+* Took advantage of new technology, new niches
+	* New businesses
+* Growth in the home-market
+	* New needs, new products
+
+Monetary policy and the parity crisis:
+
+* From 1873: The gold standard (Fixed currency value. Could exchange currency for gold)
+* Inflation during WW1 (Printing money lead to inflation and gold standard broke down)
+	* After 1918: Back to the gold standard or establish a new value of the currency (Most European countries chose the latter, Norway and GB chose the former option)
+* Back to parity:
+* Lifting the value of the currency -> high interest rate -> less investments -> less production and export -> Unemployment
+* Debt problems
+	* Rising value of loans
+* Parity reached 1928
+
+ The way out of the crisis:
+ 
+ * International growth from 1932/35:
+ * Gold standard given up 1931
+ 	* Norwegian Kroner devaluated -> Norwegian goods cheaper
+ 	* Higher export incomes
+ * Stability and less conflicts
+ * Expanding home market, new products (eg: Radio)
+
+New products, markets and consumers:
+ 
+* The 1920s: Growth in export industries
+	* Shipping
+	* Whaling
+* The 1930s: Growth in the home-market
+	* Textiles
+	* Furniture
+	* Household goods
+
+### World War II
+
+* September 1939: Norway declared neutrality
+* Invasion of Denmark and Norway 9 April 1940
+* German military occupation of Norway 1940 - 1945
+
+Most people were surprised by the sudden German attack, since they did not believe the warnings. The Norwegian defence was not given much financial support and was thus not prepared. Almost the whole German fleet was sent to Norway. Kristiansand had one of the few airports. Narvik was strategically important to secure the supply chain of Iron from Sweden. In Trondheim, there was no military resistance, as the city was already occupied very quickly in the morning. 
+
+The strategy was to cease the government and royal family in Norway and Denmark. In Denmark it succeeded, but in Norway, the ship with the soldiers that should have done this, got sunk, so the government and royals could flee to London. 
+
+There was a period of fighting, since the Norwegian government didn't want to let their country go. The king became a symbol for the Norwegian resistance, because of this resistance. It took time for Norwegian forces to mobilise, as the call to arms was sent by post. The germans took control over the radio quite soon. 
+
+German invasion and occupation:
+
+* Reason for the invasion:
+	* Strategic reasons: Control over the North Sea / North Atlantic
+	* Transport of iron ore from Sweden
+* The Government decided to decline the German demands and resist the invasion
+* Norwegian troops in Southern Norway surrendered 5 May, in Northern Norway 10 June 1940
+* Norway withstood the German invasion for two months
+
+Vidkun Quisling:
+
+* Vidkun Quisling (1887 - 1945), leader of the Norwegian Nazi party (Nasjonal Samling - "National Unity")
+* 9 April 1940: The world's first radio-broadcast coup d'état (failed)
+* From 1942 head of a puppet government under German control
+* Executed for treason in October 1945
+
+Nazi rule:
+
+* Norwegian Government in exile in London
+* 360'000 German soldiers in Norway (1945) (Hitler thought that the end of WW2 would be fought in Norway)
+* Quisling led a government with members of the Norwegian Nazi Party
+* Attempts of nazification of the society
+* 772 Norwegian Jews deported to German camps, 34 survived
+* 11'000 people killed, 40'000 imprisoned
+* German scorched earth policy (Destroy everything while retreating):
+	* Large parts of Finnmark and Northern Troms totally destroyed 1944/45
+	* 50'000 evacuated, 25'000 hid in the wilderness
+
+Resistance and collaboration:
+
+* Military resistance
+	* From abroad
+	* The Home Front
+	* Guerilla and sabotage operations
+* Civil resistance
+* Attempts of nazification failed
+
+Collaboration:
+
+* 5'000 - 6'000 Norwegians joined the German forces
+* Members of the Nazi Party rose from 7'000 in 1940 to 40'000 in 1943
+* Many thousand Norwegians worked for the German occupant
+* 60'000 suffered legal penalties for collaboration with the enemy
+
+After the war - Break and continuity:
+
+* Political and social unification (for the most part)
+* The war ended unemployment
+* The end of poverty
+* End of neutrality
+* Post-war reconstruction
+
+
+## Lecture 10 - 02.11.2016
+
+**The building of the welfare state**
+
+
+### What is a welfare state?
+
+> A state that is concerned about the welfare of its citizen, in addition to its traditional purview of internal security, defence, and foreign policy.  
+> - (A Dictionary of Contemporary World History)
+
+Important dimensions of the standard of living and social security are secured by solutions in common, public, not private market solutions.
+(I.e. education, assistance during unemployment, illness)
+
+### Norwegian National Insurance Scheme
+
+* A government insurance scheme entitling members to financial security, ensuring income
+	* Accidents and illness (Full pay for 1-2 days sick from work)
+	* Unemployment (Courses to help getting a new job)
+	* Pregnancy and childbirth (1 year maternity leave, 10 or more for the father)
+	* Single parent families
+	* Care of the elderly
+	* Occupational rehabilitation (If one cannot continue one's work, support to get a new education is granted)
+	* Funerals
+* Pensions
+	* Old age
+	* Survivors
+	* Disability
+
+### Who is the Norwegian welfare state for?
+
+The principle of universality:
+
+* The assistance is rendered to **all**, not only to a needy majority
+* At this point the welfare state differs from the previous system, often called the social help state, where the aim was to stretch a security net only for those at the very bottom.
+* Broad political consensus on the general principles of the welfare policy
+* Universal benefits should be for all to get the certain standard conditions
+* Also the children of the wealthy obtain support
+* Ties the interests of the wealthy to the public institutions
+
+### Redistribution and inequality
+
+The welfare state does not do away with inequality:
+
+* It does not redistribute radically form the rich
+* It redistributes from the middle strata to the poor
+* It does not do away with a capitalist market economy
+
+### The Norwegian welfare system
+
+* Benefits and services for all major social risks (earlier it was fragmented)
+* Broad coverage
+* Unified (not fragmented) protection systems
+* Financed by general or earmarked taxes, not contributions
+* Mix of minimum and earnings-related benefits (with ceilings)
+* Same quality benefits and services in the whole territory
+* Equalises incomes and living-standards during lifetime (Connecting level of benefits to the level of income)
+
+### Expensive welfare
+
+* 1.1 million people have disbursements from the national insurance as their main source of income, including approximately 900'000 old-age pensioners)
+* The total outlay of the insurance is about 34.3% of the national budget
+
+### The development of welfare states
+
+* Mid/late 19th century:
+	* Industrialising countries specified minimal working conditions
+	* Social rise was to calm the masses to prevent a revolution
+* Germany 1883 - 1888:
+	* The first state to accept a responsibility for social welfare through a redistribution of wealth
+	* Social insurance legislation (pensions, accident insurance, and health insurance)
+* New Zealand: Described as the world's first welfare state (1903)
+* UK: Unemployment insurance 1911
+* 1933, Roosevelt's New Deal financed extensive public work schemes (the state interfered like never before)
+
+Great Britain after WW2:
+
+<img src="./Resources/cradle_to_grave.png" width="300"/>
+
+* After WW2: Fundamental shift in attitudes towards a welfare state, especially in Europe
+* Similar development in many Western European countries
+* The Scandinavian countries' welfare provision became particularly famous for its scope and quality
+
+### Three models of welfare systems
+
+* The American model: USA
+	* Give people a minimum level of security
+	* Market solutions
+	* Low level of payment
+* The continental model: France and Germany
+	* Income for people who can no longer work
+	* Based on former income
+	* Financed through employers organisations and trade unions
+* The Scandinavian model: Sweden, Denmark, Norway and the Netherlands
+	* Security and equality
+	* Individual and universal rights
+	* Financed by taxes
+
+### The development of the Norwegian welfare state
+
+* Norwegian welfare state was built up over many years
+* The era of *social state*: 1880 - 1945
+* 1880 - 1935: The founding years of the welfare state, the social service state
+	* 1880 - 1920: Establishment (first initiatives mainly by the private sector, later a bit more by the state)
+	* 1920 - 1935: Stagnation
+* 1935 - 1940: New emphasis on social security as a public task
+
+### The era of the welfare state, from 1945
+
+* 1945 - 1980: The golden years of the welfare state
+	* The phase of expansion: 1945 - 1966
+	* The modern welfare state society was built up (National insurance scheme introduced)
+	* The phase of consolidation: 1967 - 1980s (Broad political consensus, both from left and right)
+* From the 1980s/90s: The challenging years of the welfare state
+	* New challenges and pressure against established welfare institutions (Too expensive, benefits need reconsideration)
+
+### The Norwegian welfare state: Important milestones
+
+* 1895: The Accident Insurance for Factory Workers (Gradually extended to apply for other professions)
+* 1936: Sickness benefits, Old-age benefits
+* 1939: Unemployment benefits
+* 1946: Family allowances
+* 1960: Disability benefits
+* 1964: Benefits for widows and single mothers
+* 1967: These social benefits were amalgamated into the National Insurance Scheme
+
+### The National Insurance Scheme
+
+* Membership can be based on residence or employment
+* Members pay a national insurance contribution form their income (form a pension or work)
+* Membership in the National Insurance Scheme is the key to eligibility for rights to service from NAV
+* NAV ("New Labour and Welfare Administration"), 2006
+	* NAV gathers all the social security and employment offices and certain parts of the municipal social services in a common agency
+
+### Children in ECECs (Early childhood education and care):
+
+* 1950:  1.1%
+* 1960:  1.8%
+* 1970:  2.8%
+* 1980: 20.9%
+* 1990: 35.9%
+* 2000: 52.2%
+* 2010: 89.3%
+
+### Paternal benefits, maternity and paternity leave
+
+* Norwegian parents may take 49 weeks of parental leave at 100 per cent pay or 59 weeks at 80 per cent pay
+* Three weeks before and six weeks after the birth are reserved for the mother, while 10 weeks of the total parental leave period are reserved for the father (paternal quota)
+
+### Some major trends after 1945
+
+* Building of the modern welfare state
+* Strong economic growth, partly supported by the state directly or indirectly (many new industries)
+* Expansion and development of public health care (new hospitals which gave free health care)
+* Industrialisation
+* Urbanisation
+* Major educational developments (More people in secondary schools and universities, cheap loans)
+* Rising oil revenues from the 1970s
+
+### 'Post-welfare state' ?
+
+From the 1980s:
+
+The economic implications of the welfare state began also to be reassessed:
+
+* Permanently rising unemployment levels
+* Declining economic growth
+* Declining birth-rate
+* Ageing popultation
+
+Was the social welfare provision of the 1970s unsustainable?  
+Reduction of state expenditure.
+
+### Future challenges to the welfare state
+
+<img src="./Resources/pension.png" width="300"/ align="right" hspace="20">
+
+Growth in claimant groups:
+
+* Population ageing
+* High percentage on health-related benefits
+* Some immigrant groups overrepresented on welfare
+* More volatile family structure
+
+Higher claimant demands:
+
+* More demanding users
+* The bottomless pit syndrome
+
+Policy structure problems:
+
+* Tensions between state, regional and local responsibility
+* Too much oil money?
+
+
+## Lecture 11 - 09.11.2016
+
+The two pillars of Foreign Policy: Secure economics (keep the people fed) and defence (keep the people safe).
+
+Important events in Norwegian Foreign Policy:
+
+* 1814: Independence and Constitution. The Swedish King is not allowed to take Norwegian troops outside Norway
+* 1905: Norway among the poorest countries in Europe. Little industry, little resources, bad communication. Famous speech stating that Norway has no Foreign Policy and wanting no part in the wars of the continent. Political perception: Norway was outside the European continent. The main asset of Norwegian Foreign Policy was the marriage of the king. There were chances of a war between Norway and Sweden. At the time, Fridtjof Nansen was the most famous polar explorer, having access to all the kings in Europe. He was sent to London as a Foreign Minister, as the most valuable Norwegian asset. He gets into several high positions in the 20s. 
+* 1914-19: WW1 - Norway, together with Sweden and Denmark, declares neutrality. Norway was the weakest of the three, and completely dependent on GB. To keep the Norwegian Merchant fleet running, it needs coal from GB. Until 1916, the Norwegian economy is doing well, as Germany is part dependent on Norwegian fish, etc. Later, Germany is blocked of and Norway couldn't trade with them anymore. All the Norwegian shipping is controlled by the Brits. 
+* The great post WW1 lesson: It was possible to stay neutral in a great European war. Victory for neutrality. 
+* 1920: Neutrality continued to be the basic foundation for Norwegian Foreign Policy, even though Norway entered the League of Nations. The perception was, that there are no threats against Norway. This became the basis for the Norwegian Foreign Policy onwards. Norway had economic troubles and the golden years of the Norwegian merchant fleet were over. Desire to go back to the gold standard form 1914. There was about 2.6 times the amount of money in the country, compared to 1914. The strategy was to reduce this amount of money. This created a financial crisis.
+* 1929: Economic crisis
+* 1940-45: Occupation by Nazi Germany. It was not foreseen by Norway, as they thought that Norway is too far away and unimportant. Norway started to rearm in 1937. Around the war, most of the parliament majority was the labour party. They spent money on infrastructure and not defence. The answers for Germany, as how to get access to the sea were France and Norway. In April 1940, the German forces occupied the whole coast of Norway and not only the south, that was more anticipated. The whole of the Norwegian troops were in GB. They did not take part in the fighting when Germany initiated the Blitzkrieg against GB. 
+* Norway never wanted a morning like the one in April 1940 again. This made neutrality impossible, as Norway was strategically important. 
+* 1947: Marshall
+* 1949: Joined NATO as one of its founding members. Norway makes big exceptions from NATO policies (No bases, no nuclear weapons, etc.). Norway reads Article 5 in one way: Norway cannot be outside the war and will get helped if attacked.
+* 1972: Rejection of EEC. There is still the perception of being outside Europe.
+* 1990s: Perception of a threat is gone and Foreign Policy changes back to wanting neutrality. Norway realises, that the pact is not only one way. They try to make themselves valuable. 
+* Norway gets richer with the oil.
+* 1994: EU Referendum
+* 2001: War in Afghanistan after 9/11. Norway doesn't go there with only medics, as before, but also as an offensive power. In total, Norway dropped 6 bombs.
+* 2011: Norway drops 600 bombs in Syria
+* Now: Norway has very modern equipment; buying new F-35 jets. 
+
+Broad phases in Norwegian Foreign Policy:
+
+* 1905-40: Neutrality
+* 1949-90: Cold war / NATO
+* From 1990: NATO ?
+
+The Foreign Policy in Norway is more or less the same over all the different parties. There is a big continuity in Foreign and Economic Policies. 
+
+## Lecture 12 - 16.11.2016
+
+### The major trends after 1945
+
+* Strong economic growth, partly supported by the state, directly or indirectly
+* Low unemployment rate
+* Industrialisation
+* Urbanisation
+* Major education developments
+* Building of the modern welfare state
+* Rising oil revenues from the 1970s
+
+### The post WW2 period, 1945 - 1973
+
+* Economic stability and growth
+* High growth rate in the OECD-area (Norwegian growth rate below OECD-average). Norway was not damaged as badly as other parts of Europe.
+* Large investments
+* Industrial growth sectors:
+	* Shipping, shipyards (High need for ships, because of international trade, eg oil)
+	* Energy-intensive industries (cheap electricity)
+* Agriculture and fisheries: Increased productivity (Not so many people employed in agriculture) (Bigger boats that traveled further)
+* Gradual structural changes continued: From primary products to service sectors
+* Significant state ownership and intervention (Often building up state owned industries, but also giving out loans) (Eg: Keep the electricity price down to help new industries)
+* State industries
+* Development of the welfare state
+
+### Labour party hegemony -> 1965
+
+* Labour government 1935 - 1965 (except two weeks in 1963)
+* "The one party state" - The Labour party state
+* Broad political census on basic characteristics of the welfare state
+* Political stability
+
+### A large public sector
+
+* Policies for economic growth and policies for welfare
+* Financing of house building and regulation of the housing market (very high birth rate after the war)
+* Educational policy with two goals:
+	* Raise the level of education (More people in higher education. Special bank to allow everyone access to higher education)
+	* Contribute towards more egalitarian society
+* Emphasis on regional equality (Should be able to live wherever one wants. There should not be any difference in living standard between the regions of the country)
+
+### "The Nordic Model"
+
+* The Norwegian working life model:
+	* A large welfare state
+	* Strong collective actors
+	* Tradition for tri-partite cooperation between state, employer organisations and trade unions
+* Dialogue and agreements
+* Wage formation through coordinated central negotiations in private and public sectors
+
+### From 1973: Stagnation and uncertainty
+
+<img src="./Resources/tog.jpg" width="300"/ align="right" hspace="20">
+
+* 1970s/80s: Economic uncertainty
+* End of 1960s: Lower growth rates
+* 1973: Oil crisis (War in middle east; dramatic rise in oil rise) for over a year (car free days to keep oil consumption don)
+* From 1973: International crisis: Problems for Norwegian industry and shipping
+* Growth unemployment from early 1970s
+* Still ambitious welfare policy and growing public sectors
+
+### The Norwegian economy from the 1970s: The Oil Era
+
+* Reduced competitiveness in traditional industries - trend towards deindustrialisation
+* 1962: Foreign companies applied for permission to conduct geological surveys
+* 1963: Norwegian sovereignty over natural deposits on the country's continental shelf was proclaimed (instead of having the private sector control it)
+* 1969: First commercial discovery. *Ekofisk* - one of the largest offshore fields ever found
+* 1971: First oil produced
+
+### Oil income
+
+* Public control of Oil resources
+* State owned oil company: Statoil 1972
+* From 2001: The Norwegian state owns 67% (partly privatised by selling shares)
+* Dramatic rise in income in the 90s
+
+The Oil Fund:
+
+* Government Pension Fund Global (The Petroleum Fund of Norway) 1990
+* The Norwegian petroleum income is deposited in the fund for future spending
+* 4% can be spent each year by the government
+
+### National / ethnic groups in Norway
+
+* The majority: Ethnic Norwegians (ca 85%)
+* Indigenous people
+* National minorities (Groups with a long-standing attachment to the country are defined as national minorities. Eg: Jews)
+* Immigrant groups (approx. 13%, in Oslo 26%)
+
+### The Sami language & culture revival
+
+* From the 1950s: End of the Norwegian assimilation policy towards the Sami people
+* Sami language in schools
+* Sami University College (Kautokeino - Finnmark Country)
+* Newspapers, radio and television programmes
+
+Sami parliament 1989:
+
+* Weak political influence, far from autonomy
+* Democratically elected parliamentarians. Their mission is to work for the Sami culture.
+
+### Politics in recent years
+
+<img src="./Resources/minister.png" width="85"/ align="right" hspace="20">
+
+* Political destabilisation
+* Voters less loyal to political parties
+* Political polarisation
+* Minority governments
+* Strengthening of the right in politics from the 1970s
+* Reaction to strong public sector, heavy taxation and immigration
+
+<img src="./Resources/stortingsvalg.png" width="400"/>
+
+### Changes in politics
+
+* Liberalisation: From public to market solutions
+* Decreasing state ownership
+* But still a large public sector
+* Fewer state monopolies, eg broadcasting, telephone
+* Globalisation: Less political national control
+* Environmental movements
+
+### Equality and anti-discrimination
+
+* Norway is considered to be one of the most gender equal countries in the world
+* Then Gender Equality Act 1978: Equal opportunities in education, employment and cultural and professional advancement
+* Equal rights for homosexuals: Anti-discrimination laws, same-sex marriages
+
+### Cultural changes
+
+* Globalisation
+* A multicultural society (But also anti-immigration movements)
+* Rising level of education
+* Changes in daily life:
+	* Media, computers, smartphones, travel, tourism, food, etc.
+	* Internationalisation
+* A more diverse society (Culturally, socially, economically)
