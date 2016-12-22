@@ -43,7 +43,7 @@ Ottar shows an *integrated trade economy all along Norway, Denmark and England*,
 
 The Viking Age begins with a raid on monastery in northern England. Raiders singled out rich institutions as their targets. Raids later expanded to more regions, like the east and to large rivers in Europe.
 
-Trade & the viking expansion of settlements are two important aspects that happened at the same time. Settlements in north Atlantic islands -> Iceland, Shetland, Faroese, Greenland, because of a *population surplus, better ships and the concentration of power*. The new settlements depended on trade with Norway. Iceland grew to ca. 20000 inhabitants.
+Trade & the viking expansion of settlements are two important aspects that happened at the same time. Settlements in north Atlantic islands -> Iceland, Shetland, Faroese, Greenland, because of a *population surplus, better ships and the concentration of power*. The new settlements depended on trade with Norway. Iceland grew to ca. 20'000 inhabitants.
 
 <img src="./Resources/expansionWest.jpg" width="500" />
 
@@ -57,7 +57,7 @@ Viking expansion:
 
 ### Chieftains
 
-A chieftain lived in a big house on his farm. His slaves / workers lived on the same land, but in a smaller house. Around the land of the chieftain was the land of other farmers, where they had their houses, but it was also controlled by the chieftain. There was other spheres of influences of chieftains. Some people were in the middle of two spheres and they seek out one of them, that gave them the most profit and protection. Almost all people were "forced" to join one chieftain and give him his loyalty and support by joining his raids.
+A chieftain lived in a big house on his farm. His slaves / workers lived on the same land, but in a smaller house. Around the land of the chieftain was the land of other farmers, where they had their houses, but it was also controlled by the chieftain. There were other spheres of influences of chieftains. Some people were in the middle of two spheres and they seek out one of them, that gave them the most profit and protection. Almost all people were "forced" to join one chieftain and give him his loyalty and support by joining his raids.
 
 The chieftains’ power:
 
@@ -68,7 +68,7 @@ The chieftains’ power:
 
 ### Ting
 
-A Ting was a legal assembly, where all free men would meet and settle disputes, that were destabilising society (Settlements in court). Whoever could gather the most support would win the dispute. People would go to the legal assembly with their chieftain and support him. Therefor it was important to have a lot of people loyal to the chieftain. More influential people could influence the outcome more, since there was no strict laws. 
+A Ting was a legal assembly, where all free men would meet and settle disputes, that were destabilising society (Settlements in court). Whoever could gather the most support would win the dispute. People would go to the legal assembly with their chieftain and support him. Therefore it was important to have a lot of people loyal to the chieftain. More influential people could influence the outcome more, since there was no strict laws. 
 
 ### Introducing laws
 
@@ -141,7 +141,7 @@ The kingdom of Norway in the 11th century:
 The kings had economical and religious power. There were gods for every kind of people. It strengthened the people but was decentralised. Christianity was very centralised and this way of thought was more in line with a state. 
 The import of slaves meant that a small christian element was already present in the population. Christianity was also already known by the vikings.
 
-Kings would do their missionary work violently. A lot of energy was put into changing the reigning aristocracy into christians. The church is a part of the kings ruling apparatus. Kings were made to saints.
+Kings would carry out their missionary work violently. A lot of energy was put into changing the reigning aristocracy into christians. The church is a part of the kings ruling apparatus. Kings were made to saints.
 
 In the 11th century a more permanent christian system was introduced. The local churches were built by the local aristocracy. They remained in power throughout the religious change. The church had royal protection and the king used the reading/writing skills of the church.
 
@@ -170,7 +170,7 @@ A gård starts resembling a village requiring a high degree of cooperation and c
 
 <img src="./Resources/Havrå.jpg" width="400" />
 
-Below and above the farms are fields. The farm itself lies about 200m over the fjords. The land below was very good land. Above the upper fields (lesser quality) was the woods. All households had good fields and not so good fields. All households should have had access to the sea to fish.
+Below and above the farms are fields. The farm itself lies about 200m over the fjords. The land below was very good land. Above the upper fields (lesser quality) were the woods. All households had good fields and not so good fields. All households should have had access to the sea to fish.
 
 <img src="./Resources/Havrå2.jpg" width="400" />
 
@@ -257,7 +257,7 @@ The king is now the lawmaker and merges all the law codes into one law for the w
 
 The arch bishops could have 120 armed forces, the bishops 40. There was a judge at every local cathedral. 
 
-The norse atlantic islands accepted the overlordship of the Norwegian king. The Norwegian kingdom was more and more integrated into the central european culture. 
+The norse Atlantic islands accepted the overlordship of the Norwegian king. The Norwegian kingdom was more and more integrated into the central European culture. 
 
 Summing up so far:
 
@@ -275,7 +275,7 @@ With the rise in population, more and more groups had to settle for bad lands wi
 * First deaths in 1346. In 1348 it reached Norway.
 * Probably transmitted by rats and fleas (thus long travels by ships possible)
 * The fleas had rats as their hosts and when the rat died, the flea also took humans as their hosts
-* Within a few years, the plague spread all over europe
+* Within a few years, the plague spread all over Europe
 * 30% to 60% drop in population (from ca 450'000 to 150'000)
 * Contraction of cultivated land
 * Fall in the rent from land (75%)
@@ -542,7 +542,7 @@ Around 1850, the first banks open and capital becomes more available. Free trade
 
 The liberal party is the driving force for the split with Sweden. Sweden traded east- and southwards, while Norway traded westwards (dependant on the royal navy). The foreign policy of the kingdom of Norway-Sweden was the main source of conflict (the foreign ministers were always Swedes). Norway had one of the largest merchant marines (4th largest in WW1); Sweden not so much. The liberal party argued, that the foreign minister doesn't respond to Norwegian interests abroad. The conflict about Norway wanting a foreign counsellor evolves in the 1890s and in 1905, the union is broken up. 
 
-Since there were several conflicts around the world at that time, it was important for Norway to show that they are not revolutionaries. The referendum about the split from Sweden was accepted with a big majority. There was also a referendum to decide if Norway should stay a kingdom or a republic. Haakon VII (a dane) gets king. He is married to the daughter (Maud) of the British king. Norway is therefore an independent country with relations to Denmark and Great Britain (important for the sea sovereignty). 
+Since there were several conflicts around the world at that time, it was important for Norway to show that they are not revolutionaries. The referendum about the split from Sweden was accepted with a big majority. There was also a referendum to decide if Norway should stay a kingdom or a republic. Haakon VII (a dane) becomes king. He is married to the daughter (Maud) of the British king. Norway is therefore an independent country with relations to Denmark and Great Britain (important for the sea sovereignty). 
 
 From 1900 up to the start of WW1, Norway starts exploiting hydro energy a lot. 
 
@@ -1150,7 +1150,7 @@ The Foreign Policy in Norway is more or less the same over all the different par
 
 * 1970s/80s: Economic uncertainty
 * End of 1960s: Lower growth rates
-* 1973: Oil crisis (War in middle east; dramatic rise in oil rise) for over a year (car free days to keep oil consumption don)
+* 1973: Oil crisis (War in middle east; dramatic rise in oil prise) for over a year (car free days to keep oil consumption down)
 * From 1973: International crisis: Problems for Norwegian industry and shipping
 * Growth unemployment from early 1970s
 * Still ambitious welfare policy and growing public sectors
@@ -1231,4 +1231,4 @@ Sami parliament 1989:
 * Changes in daily life:
 	* Media, computers, smartphones, travel, tourism, food, etc.
 	* Internationalisation
-* A more diverse society (Culturally, socially, economically)
+* A more diverse society (Culturally, socially, economically) 
