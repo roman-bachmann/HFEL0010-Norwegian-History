@@ -168,11 +168,11 @@ What is a farm? Agrarian terms:
 
 A gård starts resembling a village requiring a high degree of cooperation and coordination.
 
-<img src="./Resources/Havrå.jpg" width="400" />
+<img src="./Resources/Havraa.jpg" width="400" />
 
 Below and above the farms are fields. The farm itself lies about 200m over the fjords. The land below was very good land. Above the upper fields (lesser quality) were the woods. All households had good fields and not so good fields. All households should have had access to the sea to fish.
 
-<img src="./Resources/Havrå2.jpg" width="400" />
+<img src="./Resources/Havraa2.jpg" width="400" />
 
 There was many quarrels about the land and its heritage. 
 
