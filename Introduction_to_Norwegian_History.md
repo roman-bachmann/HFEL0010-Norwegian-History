@@ -1041,7 +1041,7 @@ Reduction of state expenditure.
 
 ### Future challenges to the welfare state
 
-<img src="./Resources/pension.png" width="300"/ align="right" hspace="20">
+<img src="./Resources/pension.png" width="300" align="right" hspace="20"/>
 
 Growth in claimant groups:
 
@@ -1146,7 +1146,7 @@ The Foreign Policy in Norway is more or less the same over all the different par
 
 ### From 1973: Stagnation and uncertainty
 
-<img src="./Resources/tog.jpg" width="300"/ align="right" hspace="20">
+<img src="./Resources/tog.jpg" width="300" align="right" hspace="20"/>
 
 * 1970s/80s: Economic uncertainty
 * End of 1960s: Lower growth rates
@@ -1197,7 +1197,7 @@ Sami parliament 1989:
 
 ### Politics in recent years
 
-<img src="./Resources/minister.png" width="85"/ align="right" hspace="20">
+<img src="./Resources/minister.png" width="85" align="right" hspace="20"/>
 
 * Political destabilisation
 * Voters less loyal to political parties
